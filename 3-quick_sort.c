@@ -18,7 +18,8 @@ void swap_int(int *a, int *b)
 }
 
 /**
- * lomuto_partition - partitions an array using Lomuto scheme
+ * lomuto_partition - partitions an array using Lomuto
+ * scheme
  * @array: array to partition
  * @low: starting index
  * @high: ending index
